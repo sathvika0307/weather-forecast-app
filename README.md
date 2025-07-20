@@ -4,6 +4,10 @@
 
 Python, Streamlit, OpenWeatherMap API
 
+### 🔗 Live Demo:
+
+👉 [Launch Weather Forecast Web App on Streamlit](https://weather-forecast-app-mykdvbnqzagvaxwrqvhsm9.streamlit.app/)
+
 ### **📝 Project Description:**
 
 This is a lightweight and interactive Weather Forecast Web App developed using Streamlit. The app fetches real-time weather data from the OpenWeatherMap API based on the user's city input. It displays temperature, weather condition, description, and an appropriate weather icon, making it a practical beginner project that combines API integration with a simple UI.
@@ -36,7 +40,13 @@ Informs users when an invalid or unrecognized city is entered.
 
 ### **📂 Example Use Case:**
 
-A user enters "Hyderabad" and receives real-time weather info like temperature (31°C), condition (Clear), and an icon showing a sun symbol.
+A user enters **"Hyderabad"** and instantly receives live weather info:
+
+- Temperature: 31°C
+   
+- Condition: Clear
+    
+- Icon: ☀️ (Sun symbol)
 
 ### **🔮 Future Enhancements (Optional Scope):**
 
